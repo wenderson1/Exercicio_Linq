@@ -1,0 +1,11 @@
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\bin\Debug\netcoreapp2.1\Exercicio_Linq.deps.json
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\bin\Debug\netcoreapp2.1\Exercicio_Linq.runtimeconfig.json
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\bin\Debug\netcoreapp2.1\Exercicio_Linq.runtimeconfig.dev.json
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\bin\Debug\netcoreapp2.1\Exercicio_Linq.dll
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\bin\Debug\netcoreapp2.1\Exercicio_Linq.pdb
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.csproj.CoreCompileInputs.cache
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.AssemblyInfoInputs.cache
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.AssemblyInfo.cs
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.dll
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.pdb
+C:\Users\Wenderson\source\repos\Exercicio_Linq\Exercicio_Linq\obj\Debug\netcoreapp2.1\Exercicio_Linq.csprojAssemblyReference.cache
